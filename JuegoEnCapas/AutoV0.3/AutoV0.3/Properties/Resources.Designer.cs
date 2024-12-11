@@ -63,6 +63,16 @@ namespace AutoV0._3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ADMINISTRADOR_FONDO {
+            get {
+                object obj = ResourceManager.GetObject("ADMINISTRADOR_FONDO", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Advertencia {
             get {
                 object obj = ResourceManager.GetObject("Advertencia", resourceCulture);
@@ -173,6 +183,26 @@ namespace AutoV0._3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap DESHABILITAR_BTN {
+            get {
+                object obj = ResourceManager.GetObject("DESHABILITAR_BTN", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap DeshabilitarBTN {
+            get {
+                object obj = ResourceManager.GetObject("DeshabilitarBTN", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap FITITO {
             get {
                 object obj = ResourceManager.GetObject("FITITO", resourceCulture);
@@ -253,6 +283,26 @@ namespace AutoV0._3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap HabilitarBTN {
+            get {
+                object obj = ResourceManager.GetObject("HabilitarBTN", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap JuegoBTN {
+            get {
+                object obj = ResourceManager.GetObject("JuegoBTN", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap logoUsuario {
             get {
                 object obj = ResourceManager.GetObject("logoUsuario", resourceCulture);
@@ -266,6 +316,16 @@ namespace AutoV0._3.Properties {
         internal static System.Drawing.Bitmap Menu_cars {
             get {
                 object obj = ResourceManager.GetObject("Menu_cars", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap MenuAdminUsuario {
+            get {
+                object obj = ResourceManager.GetObject("MenuAdminUsuario", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -606,6 +666,16 @@ namespace AutoV0._3.Properties {
         internal static System.Drawing.Bitmap usuariolblFrom1 {
             get {
                 object obj = ResourceManager.GetObject("usuariolblFrom1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap UsuariosBTN {
+            get {
+                object obj = ResourceManager.GetObject("UsuariosBTN", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

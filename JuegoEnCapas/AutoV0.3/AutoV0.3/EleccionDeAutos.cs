@@ -29,17 +29,18 @@ namespace AutoV0._3
             ReproducirMusica();
 
         }
-        public void InicializarMusica() { 
+        public void InicializarMusica()
+        { // Ruta del archivo de música
+          // Obtener la ruta base del ejecutable (estará en bin\Debug o bin\Release)
+            string directorioBin = AppDomain.CurrentDomain.BaseDirectory;
 
-        // Obtener la ruta del directorio del ejecutable
-        string directorioBin = AppDomain.CurrentDomain.BaseDirectory;
+            // Retroceder dos carpetas para llegar a la raíz del proyecto
+            string directorioRaiz = Path.GetFullPath(Path.Combine(directorioBin, @"..\..\.."));
 
-        // Retroceder dos carpetas para llegar a la raíz del proyecto
-        string directorioProyecto = Path.GetFullPath(Path.Combine(directorioBin, @"..\..\.."));
+            // Construir la ruta completa al archivo de sonido en la carpeta Resources
+            string rutaMusica = Path.Combine(directorioRaiz, "Resources", "menuSonido.wav");
 
-        // Construir la ruta al archivo de sonido dentro de la carpeta Resources
-        string rutaMusica = Path.Combine(directorioProyecto, "Resources", "menuSonido.wav");
-        player = new System.Media.SoundPlayer(rutaMusica);
+            player = new System.Media.SoundPlayer(rutaMusica);
         }
 
         public void DetenerMusica()
