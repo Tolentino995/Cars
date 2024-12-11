@@ -1,0 +1,17 @@
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\bin\Debug\net8.0\Serivicios.deps.json
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\bin\Debug\net8.0\Serivicios.dll
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\bin\Debug\net8.0\Serivicios.pdb
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\bin\Debug\net8.0\Entidades.dll
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\bin\Debug\net8.0\Entidades.pdb
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\obj\Debug\net8.0\Serivicios.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\obj\Debug\net8.0\Serivicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\obj\Debug\net8.0\Serivicios.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\obj\Debug\net8.0\Serivicios.AssemblyInfo.cs
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\obj\Debug\net8.0\Serivicios.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\obj\Debug\net8.0\Serivicios.csproj.Up2Date
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\obj\Debug\net8.0\Serivicios.dll
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\obj\Debug\net8.0\refint\Serivicios.dll
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\obj\Debug\net8.0\Serivicios.pdb
+C:\Users\lucas\source\repos\JuegoEnCapas\Serivicios\obj\Debug\net8.0\ref\Serivicios.dll
