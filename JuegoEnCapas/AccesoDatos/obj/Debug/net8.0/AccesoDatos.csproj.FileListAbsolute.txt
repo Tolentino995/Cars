@@ -10,3 +10,16 @@ C:\Users\lucas\source\repos\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\AccesoDato
 C:\Users\lucas\source\repos\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
 C:\Users\lucas\source\repos\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
 C:\Users\lucas\source\repos\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\AccesoDatos.sourcelink.json
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll

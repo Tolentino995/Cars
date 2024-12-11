@@ -9,3 +9,15 @@ C:\Users\lucas\source\repos\JuegoEnCapas\Entidades\obj\Debug\net8.0\Entidades.dl
 C:\Users\lucas\source\repos\JuegoEnCapas\Entidades\obj\Debug\net8.0\refint\Entidades.dll
 C:\Users\lucas\source\repos\JuegoEnCapas\Entidades\obj\Debug\net8.0\Entidades.pdb
 C:\Users\lucas\source\repos\JuegoEnCapas\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\obj\Debug\net8.0\Entidades.sourcelink.json
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\Lucas\Desktop\JuegoEnCapas\JuegoEnCapas\Entidades\obj\Debug\net8.0\ref\Entidades.dll
