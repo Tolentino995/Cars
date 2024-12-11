@@ -48,9 +48,9 @@ namespace AutoV0._3
             {
                 if (usuarioInfo.EsAdministrador)
                 {
-                    MenuAdmin menuAdmin = new MenuAdmin();
-                    menuAdmin.UpdateLabelText(usuarioInfo.Nombre);
-                    menuAdmin.Show();
+                    //MenuAdmin menuAdmin = new MenuAdmin();
+                    //menuAdmin.UpdateLabelText(usuarioInfo.Nombre);
+                    //menuAdmin.Show();
                 }
                 else
                 {

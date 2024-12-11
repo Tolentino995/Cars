@@ -22,7 +22,16 @@ namespace AutoV0._3
 
         private void ReproducirMusica()
         { // Reproducir la música en bucle
-            string rutaMusica = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Resources", "sonidoChoque.wav");
+
+            // Obtener la ruta del directorio del ejecutable
+            string directorioBin = AppDomain.CurrentDomain.BaseDirectory;
+
+            // Retroceder dos carpetas para llegar a la raíz del proyecto
+            string directorioProyecto = Path.GetFullPath(Path.Combine(directorioBin, @"..\..\.."));
+
+            // Construir la ruta al archivo de sonido dentro de la carpeta Resources
+            string rutaMusica = Path.Combine(directorioProyecto, "Resources", "sonidoChoque.wav");
+
             player = new System.Media.SoundPlayer(rutaMusica);
             player.Play();
             isMusicPlaying = true;

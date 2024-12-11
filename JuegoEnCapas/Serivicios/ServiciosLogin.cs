@@ -34,8 +34,11 @@ namespace Serivicios
             {
                 DataRow usuarioData = dtUsuario.Rows[0];
                 usuarioInfo.EsValido = true;
-                usuarioInfo.EsAdministrador = usuarioData["rol"].ToString().Equals("Administrador", StringComparison.OrdinalIgnoreCase);
-                usuarioInfo.Nombre = usuarioData["nombre"].ToString();
+
+                // Interpretar el campo `rol` como un booleano (1 = administrador, 0 = usuario normal)
+                usuarioInfo.EsAdministrador = Convert.ToInt32(usuarioData["rol"]) == 1;
+
+                usuarioInfo.Nombre = usuarioData["usuario"].ToString();
             }
 
             return usuarioInfo;
